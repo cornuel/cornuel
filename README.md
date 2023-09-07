@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cornuel&label=Profile%20views&color=0e75b6&style=flat" alt="cornuel" /> </p>
 
-- 🔭 I’m currently working on [Workout Tracker](https://github.com/cornuel/workout_tracker_backend)
+- 🔭 I just shipped [Gym Planner](https://github.com/cornuel/gym-planner) 💪🏻
 
 - 🌱 I’m currently learning **Flask and GraphQL**
 
