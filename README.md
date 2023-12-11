@@ -5,7 +5,7 @@
 
 - 🔭 I just shipped [Gym Planner](https://github.com/cornuel/gym-planner) 💪🏻
 
-- 🌱 I’m currently working on an backend [instagram clone](https://github.com/cornuel/instagram_drf_clone) made with **Django Rest Framework**
+- 🌱 I’m currently working on a backend [instagram clone](https://github.com/cornuel/instagram_drf_clone) made with **Django Rest Framework**
 
 - 📄 Know about my experiences [www.benjamincornuel.com](www.benjamincornuel.com)
 
