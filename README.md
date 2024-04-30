@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cornuel&label=Profile%20views&color=0e75b6&style=flat" alt="cornuel" /> </p>
 
-- 🔭 I just shipped [Gym Planner](https://github.com/cornuel/gym-planner) 💪🏻
-
-- 🌱 I’m currently working on a backend [instagram clone](https://github.com/cornuel/instagram_drf_clone) made with **Django Rest Framework**
+- 🔭 I just shipped this interesting [Instagram-Clone](https://github.com/cornuel/instagram) made with Django Rest and Vue.js ⭐
 
 - 📄 Know about my experiences [www.benjamincornuel.com](www.benjamincornuel.com)
 
