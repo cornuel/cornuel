@@ -7,8 +7,6 @@
 
 - 📄 Know about my experiences [www.benjamincornuel.fr](www.benjamincornuel.fr)
 
-- ⚡ Fun fact **believe it or not, I started my journey in full-stack development in less than a year after working as an embedded engineer!**
-
 ## 💻 Tech Stack:
 ### Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
