@@ -5,7 +5,7 @@
 
 - 🔭 I just shipped this interesting [Instagram-Clone](https://github.com/cornuel/instagram) made with Django Rest and Vue.js ⭐
 
-- 📄 Know about my experiences [www.benjamincornuel.com](www.benjamincornuel.com)
+- 📄 Know about my experiences [www.benjamincornuel.fr](www.benjamincornuel.fr)
 
 - ⚡ Fun fact **believe it or not, I started my journey in full-stack development in less than a year after working as an embedded engineer!**
 
